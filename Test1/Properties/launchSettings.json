@@ -2,8 +2,8 @@
   "profiles": {
     "Test1": {
       "commandName": "Executable",
-      "executablePath": "B:\\RageMP\\server-files\\server.exe",
-      "workingDirectory": "B:\\RageMP\\server-files"
+      "executablePath": "D:\\Spiele\\RageMP\\server-files\\server.exe",
+      "workingDirectory": "D:\\Spiele\\RageMP\\server-files"
     }
   }
 }

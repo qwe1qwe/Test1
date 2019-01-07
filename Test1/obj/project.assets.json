@@ -6620,23 +6620,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jul\\.nuget\\packages\\": {},
-    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Simon\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jul\\source\\repos\\Test1\\Test1\\Test1.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\source\\repos\\Test1\\Test1.csproj",
       "projectName": "Test1",
-      "projectPath": "C:\\Users\\Jul\\source\\repos\\Test1\\Test1\\Test1.csproj",
-      "packagesPath": "C:\\Users\\Jul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jul\\source\\repos\\Test1\\Test1\\obj\\",
+      "projectPath": "C:\\Users\\Simon\\source\\repos\\Test1\\Test1.csproj",
+      "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Simon\\source\\repos\\Test1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
