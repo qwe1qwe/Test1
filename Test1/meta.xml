@@ -1,0 +1,4 @@
+﻿<meta>
+  <info name="Test1" type="script" />
+  <script src="Test1.dll" />
+</meta>
